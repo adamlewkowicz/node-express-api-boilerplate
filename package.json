@@ -1,0 +1,31 @@
+{
+  "name": "express-api-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alk831/node-express-api-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alk831/node-express-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/alk831/node-express-api-boilerplate#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "pretty-error": "^2.1.1"
+  }
+}
