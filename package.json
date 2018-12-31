@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/alk831/node-express-api-boilerplate#readme",
   "devDependencies": {
-    "nodemon": "^1.18.4"
+    "nodemon": "^1.18.9"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
